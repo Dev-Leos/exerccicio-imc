@@ -1,0 +1,19 @@
+.bs {
+  text-align: center;
+  background-color: rgb(199, 127, 19);
+}
+.input-group{
+  background-color: rgb(127, 114, 90);
+}
+.main{
+  background-color: rgb(134, 189, 108);
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+body {
+  background-color:rgb(236, 226, 226)
+}
